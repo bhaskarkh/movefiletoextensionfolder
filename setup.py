@@ -12,7 +12,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="movefiletoextensionfolder",
-    version="1.0.1",
+    version="1.0.3",
     description="It will move all files in the source path to their respective ext folder in destination path provided",
     long_description=README,
     long_description_content_type="text/markdown",
